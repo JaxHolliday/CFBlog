@@ -69,8 +69,21 @@
   <ItemGroup>
     <Content Include="about.html" />
     <Content Include="contact.html" />
+    <Content Include="Content\all.min.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\clean-blog.min.css" />
+    <Content Include="Images\android-chrome-192x192.png" />
+    <Content Include="Images\android-chrome-512x512.png" />
+    <Content Include="Images\apple-touch-icon.png" />
+    <Content Include="Images\favicon-16x16.png" />
+    <Content Include="Images\favicon-32x32.png" />
+    <Content Include="Images\favicon.ico" />
+    <Content Include="Images\index.jpg" />
     <Content Include="index.html" />
     <Content Include="post.html" />
+    <Content Include="Scripts\bootstrap.bundle.min.js" />
+    <Content Include="Scripts\clean-blog.min.js" />
+    <Content Include="Scripts\jquery.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -85,11 +98,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Content\" />
-    <Folder Include="Images\" />
-    <Folder Include="Scripts\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
