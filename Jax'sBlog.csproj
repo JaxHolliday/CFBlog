@@ -73,6 +73,10 @@
     <Content Include="Content\Blogstyle.css" />
     <Content Include="BlogSet2.html" />
     <Content Include="BlogSet3.html" />
+    <Content Include="Images\post 4.png" />
+    <Content Include="Images\post3.png" />
+    <Content Include="Post4.html" />
+    <Content Include="Post3.html" />
     <Content Include="Post2.html" />
     <Content Include="Images\About Header.png" />
     <Content Include="Images\android-chrome-192x192.png" />
