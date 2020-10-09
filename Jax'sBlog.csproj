@@ -83,7 +83,7 @@
     <Content Include="Images\Header 2.png" />
     <Content Include="Images\index.jpg" />
     <Content Include="index.html" />
-    <Content Include="post.html" />
+    <Content Include="Post1.html" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\clean-blog.min.js" />
     <Content Include="Scripts\jquery.min.js" />
