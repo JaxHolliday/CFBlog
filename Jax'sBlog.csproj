@@ -67,11 +67,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="about.html" />
-    <Content Include="contact.html" />
     <Content Include="Content\all.min.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\clean-blog.min.css" />
+    <Content Include="Content\Blogstyle.css" />
+    <Content Include="BlogSet2.html" />
+    <Content Include="BlogSet3.html" />
+    <Content Include="Post2.html" />
     <Content Include="Images\About Header.png" />
     <Content Include="Images\android-chrome-192x192.png" />
     <Content Include="Images\android-chrome-512x512.png" />
